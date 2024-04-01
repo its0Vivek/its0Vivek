@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Mali</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <!-- confirm faint quarter girl thought box carbon velvet pave comfort buddy believe             phares of anytype --> 
-//ready
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its0vivek&label=Profile%20views&color=0e75b6&style=flat" alt="its0vivek" /> </p>
